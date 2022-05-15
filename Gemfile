@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-# Gems here
+gem 'rails', '5.2.8'
